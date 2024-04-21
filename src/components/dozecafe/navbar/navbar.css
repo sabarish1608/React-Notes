@@ -1,0 +1,9 @@
+.split{
+    display: flex;
+}
+.dozecafe_txt{
+    font-size: 35px;
+}
+.txt_flex{
+    padding-right: 20px;
+}

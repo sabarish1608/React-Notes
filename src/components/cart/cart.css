@@ -1,0 +1,23 @@
+.item{
+    display: flex;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 5px;
+    align-items: center;
+    box-shadow: 0 0 5px gray;
+}
+.item p{
+    margin: 20px;
+}
+.item button{
+    margin: 20px;
+}
+.item h4{
+    font-size: 20px;
+}
+#total{
+    background-color:aquamarine;
+    text-align: right;
+    margin-right: 20px;
+    font-size: 30px;
+}
