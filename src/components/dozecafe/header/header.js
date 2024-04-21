@@ -7,7 +7,6 @@ function Header(){
                 <img src={bg}/>
             </div>
             <div>
-                <h1 className="coffee-txt">COFFEE</h1>
                 <p className="coffee-des">Tasty of DozeCafe</p>
                 <p className="coffee-des2">more-or-less normal distribution of letters, as opposed to using</p>
                 <button className="btn1">About Us</button>
